@@ -7,3 +7,4 @@ python可视化整理
 致谢
 [pyecharts·基本图表](https://pyecharts.org/#/zh-cn/basic_charts?id=sankey)
 [Plotly plots by notebook](https://github.com/empet/Plotly-plots)
+[Python 实现常见的50个可视化作品](https://github.com/ZJsnowman/Python-Visual-Vocabulary)
